@@ -1,0 +1,13 @@
+program test1;
+var hola: int; como, estas: float;
+{
+    hola = 45;
+	if(hola <> 45)
+	{
+		print("hola");
+	}
+	else
+	{
+		print("estas");
+	};
+}
